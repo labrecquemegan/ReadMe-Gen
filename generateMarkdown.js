@@ -41,7 +41,7 @@ function generateMarkdown(answers) {
 
   ## Table of Contents
   - [Description](#description)
-  - [GitHub Username](#gitUserName)
+  - [gitUserName](#gitUserName)
   ${renderLicenseLink(answers.license)}
   - [Email](#email)
 
